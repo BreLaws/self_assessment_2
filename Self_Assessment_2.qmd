@@ -1,7 +1,7 @@
 ---
 title: "Self Assessment 2"
 author: "Breanna Laws"
-format: html
+format: pdf
 editor: visual
 number-sections: true
 number-depth: 2
