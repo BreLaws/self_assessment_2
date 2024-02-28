@@ -1,0 +1,18 @@
+---
+title: "Self Assessment 2"
+author: "Breanna Laws"
+format: pdf
+editor: visual
+number-sections: true
+number-depth: 2
+---
+
+# Reviewing my Progress:
+
+## What I have learned:
+
+I learned how to make tokens in GitHub, as well as how to use the platform more efficiently for sharing code. I learned how to push and pull from GitHub into RStudio, as well as how to deploy a website from RStudio.
+
+## Takeaways:
+
+I had a really good time this week. Everything worked as expected, and I don't think I have any major concerns. I just know I hate combing through literature, so that will be a pain when I fully put my literature review together. Overall, though, this project should be very cross-disciplinary for me. I'm currently in COM 331, Communication and Terrorism, and we've talked about the role of media in terror in class. I'm really excited to look into this subject further in this course, too.
